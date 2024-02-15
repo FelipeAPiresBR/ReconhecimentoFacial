@@ -14,7 +14,7 @@ Iremos estudar neste resumo a criação e estudo de uma **IA** utilizando recurs
 ##   Tópicos 
 
 
-* Criação de Inteligencia Artificial Com [Reconhecimento Facial](https://portal.vision.cognitive.azure.com) 🙎‍♂️
+* Criação de Inteligencia Artificial Com [Reconhecimento Facial]([https://portal.vision.cognitive.azure.com](https://github.com/FelipeAPiresBR/Reconhecimento-Facial-.git)) 🙎‍♂️
 
 * Criação de Inteligencia Artificial Com [Transformação de imagens em Dados ](https://portal.vision.cognitive.azure.com) 📄
 
