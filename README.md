@@ -1,9 +1,3 @@
-
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-
 ## Reconhecimento Facial,Utilizando Imagens e Metamorfose de Retratos Em Dados 🤖🧠
 
 
@@ -21,7 +15,6 @@ Iremos estudar neste resumo a criação e estudo de uma **IA** utilizando recurs
 
 * Criação de Inteligencia Artificial Com [Reconhecimento Facial](https://github.com/FelipeAPiresBR/Reconhecimento-Facial-.git) 🙎‍♂️
 
-* Criação de Inteligencia Artificial Com [Transformação de imagens em Dados ](https://portal.vision.cognitive.azure.com) 📄
-
+* Criação de Inteligencia Artificial Com [Transformação de imagens em Dados](https://github.com/FelipeAPiresBR/Transformacao-de-imagens-em-Dados.git)📄
 
 
