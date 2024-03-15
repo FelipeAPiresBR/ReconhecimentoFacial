@@ -15,6 +15,8 @@ Iremos estudar neste resumo a criação e estudo de uma **IA** utilizando recurs
 
 * Criação de Inteligencia Artificial Com [Reconhecimento Facial](https://github.com/FelipeAPiresBR/Reconhecimento-Facial-.git) 🙎‍♂️
 
-* Criação de Inteligencia Artificial Com [Transformação de imagens em Dados](https://github.com/FelipeAPiresBR/Transformacao-de-imagens-em-Dados.git)📄
+* Criação de Inteligencia Artificial Com [Transformação de imagens em Dados](https://github.com/FelipeAPiresBR/Transformacao-de-imagens-em-Dados.git)
+* Criação de Inteligencia Artificial Com [IA De Documentos ](https://github.com/FelipeAPiresBR/IA-DE-DOCUMENTOS-DO-AZURE.git) 📄
+* * Criação de Inteligencia Artificial Com [IA De Leitura em tempo real  ](https://github.com/FelipeAPiresBR/IA-Language-Studio.git) 💡
 
 
